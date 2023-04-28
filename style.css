@@ -118,7 +118,7 @@ line-height: 19px;
 color: #E4E5EA;
   }
   .head_sec1 {
-    background: url(../img/head.png) center/cover no-repeat;
+    background: url(img/head.png) center/cover no-repeat;
     min-height: 786px;
   }
 
@@ -488,7 +488,7 @@ box-sizing: border-box;
 
     /* sec1 */
     .head_sec1 {
-      background: url(../img/head.png) center/cover no-repeat;
+      background: url(img/head.png) center/cover no-repeat;
       min-height: 600px;
     }
     .h2 {
@@ -569,7 +569,7 @@ box-sizing: border-box;
       display: none;
     }
     nav {
-        background: url(../img/line.svg) center/cover no-repeat;
+        background: url(img/line.svg) center/cover no-repeat;
         width: 18px;
         height: 10px;
         margin: 8px 0 7px 250px;
